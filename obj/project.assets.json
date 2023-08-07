@@ -3917,6 +3917,13 @@
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.service.axxess.tech/nuget/agencycore": {},
+        "http://nuget.service.axxess.tech/nuget/integrations": {},
+        "http://nuget.service.axxess.tech/nuget/integrations/": {},
+        "http://nuget.service.axxess.tech/nuget/rcm": {},
+        "http://nuget.service.axxess.tech/nuget/shared": {},
+        "https://api.nuget.org/v3/index.json": {},
         "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
